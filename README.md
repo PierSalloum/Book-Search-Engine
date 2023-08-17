@@ -2,7 +2,7 @@ Module 21 Challenge MERN Challenge: Book Search Engine
 
 ## Description 
 
-This App is a MERN stack application that allows users to search for books using the Google Books API. Users can save books to their account or delete them if they no longer want to keep them. This application was refactored from a RESTful API to a GraphQL API with Apollo Server.
+This App is a MERN stack application that allows users to search for books using the Google Books API. Users can save books to their account or delete them if they no longer want to keep them.
 
 
 ![Image](/Screenshot_1.png)
